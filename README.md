@@ -24,6 +24,11 @@ App
 UI
     - playwright
 
+### Run Containers
+```shell 
+cd /Users/sailendragautam/devtools/kong-by-example
+docker-compose up -d
+```
 
 ### Run UI tests
 ``` 
